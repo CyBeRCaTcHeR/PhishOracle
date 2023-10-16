@@ -1,0 +1,11 @@
+beautifulsoup4
+urllib
+os
+random
+time
+requests
+urllib.request
+webbrowser
+copy
+re
+urllib.parse
