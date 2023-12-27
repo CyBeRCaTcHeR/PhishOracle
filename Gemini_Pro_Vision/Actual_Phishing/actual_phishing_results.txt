@@ -1,0 +1,97 @@
+ Legitimate - IONOS
+ Legitimate - Microsoft
+ Legitimate - Charles University
+ Legitimate - Facebook
+ Legitimate, Outlook.
+ The webpage screenshot is a phishing attempt. The webpage is trying to impersonate the legitimate Ronin Wallet website. The webpage is trying to trick users into entering their personal information, such as their email address and password. The webpage is also trying to trick users into downloading a malicious file.
+ Legitimate - Chase
+ Legitimate, AT&T
+ 'Phishing'
+ Legitimate - Credit Agricole
+ Legitimate - Optus
+ 'Phishing', Adobe
+ Legitimate, La Banque Postale
+ 'Phishing'. The webpage is trying to obtain the user's personal information, such as their full name, date of birth, mother's maiden name, social insurance number, driving license, email address, email password, card information, name on card, card number, expiration date, CVV2, and ATM pin. This information can be used to steal the user's identity or to access their bank account.
+ Legitimate, La Poste
+ Legitimate, Adobe
+ Legitimate, Facebook.
+ Legitimate - Netflix
+ Legitimate, Commonwealth Bank
+ Legitimate, YouTube.
+ Legitimate - Adobe
+ Legitimate - Microsoft
+ Legitimate, Microsoft.
+ Legitimate - Microsoft
+ Legitimate, Google.
+ 'Legitimate', Print Corrd on Facebook.
+ 'Legitimate', Lenda
+ This is a phishing page for Postbank.
+ Phishing
+ Legitimate - Microsoft
+ 'Phishing'.
+ 'Phishing', pretending to be 'Mail Center'.
+ 'Phishing', pretending to be 'Webmail'.
+ Legitimate - Zimbra
+ Legitimate, AT&T
+ Legitimate, Raydium
+ 'Phishing'.
+Error occured
+ Legitimate. It is a notification from Google Chrome.
+ 'Phishing', Facebook.
+ This webpage screenshot is classified as 'Phishing'. The brand name is 'MetaMask'.
+ 'Phishing'.
+ Legitimate, BT
+ Legitimate, Google.
+ Legitimate, Serasa Experian
+ Legitimate, PRONTI
+ Legitimate - National Australia Bank
+ 'Phishing', GMOコイン
+ 'Phishing', pretending to be AT&T.
+ Legitimate, Zé Delivery
+ Legitimate - Banco Continental
+ Legitimate
+ Legitimate - Hapvida
+ Legitimate - Hapvida
+ Legitimate, Hapvida
+ Legitimate - IRS
+ Legitimate, Facebook
+ Legitimate - Banco Santa Fe
+ Legitimate, Bank of America
+ Legitimate, SBB CFF FFS
+ 'Phishing'.
+ Legitimate, e-Devlet Kapısı
+ Legitimate - Banco Continental
+ Legitimate - Banco Central de Honduras
+ Legitimate, Facebook
+ Legitimate - Facebook
+ Legitimate, Credit Agricole
+ Legitimate, Boursorama Banque
+ Legitimate, AOL.
+ Legitimate, Orange
+ Legitimate, La Poste
+ 'Phishing', Facebook
+ Legitimate, Meta (Facebook)
+ Legitimate - Juno
+ Legitimate, LCL
+ Legitimate, LCL
+ Legitimate, ANZ Bank
+ Legitimate - Microsoft
+ Legitimate, MetaMask
+ The webpage screenshot is a phishing attempt by Navy Federal Credit Union. The webpage is designed to look like a legitimate Navy Federal Credit Union login page, but it is actually a fake page created by scammers to steal your personal information.
+ Legitimate, Google
+ The webpage screenshot is a phishing website. The brand name is WeTransfer.
+ Legitimate, Square
+ Legitimate, Steam Community
+ Legitimate - Unicredit
+ Legitimate - Wells Fargo
+ Legitimate - Microsoft
+ Legitimate, Yahoo
+ Legitimate, Microsoft OneDrive
+ The webpage screenshot is classified as 'Legitimate', with the brand name 'Bank Melli Iran'.
+ Legitimate - LinkedIn
+ 'Phishing'
+ 'Phishing'.
+ Legitimate, Facebook
+ Legitimate - Banco Provincia
+ Legitimate - Microsoft
+ 'Phishing', Meta
