@@ -1,0 +1,100 @@
+Legitimate, FBI
+ Legitimate, LinkedIn
+ Legitimate - DC Comics
+ Legitimate, Marvel.
+ Legitimate - Animixplay
+ Legitimate, J.P. Morgan
+ Legitimate - State Bank of India
+ 'Legitimate', tutorialspoint.com
+ 'Phishing', EDAS
+ Legitimate - ICICI Bank
+ Legitimate - Kotak Mahindra Bank
+ Legitimate - EPFO
+ Legitimate - UIDAI
+ Legitimate - Vahan
+ Legitimate, Java Point
+ Legitimate, Sherwin-Williams
+ Legitimate - Manipal University Jaipur
+ Legitimate - Website - 'iubenda'
+ Legitimate, WebsitePolicies
+ The webpage screenshot is classified as 'Legitimate', with the brand name 'GetTerms'.
+ Legitimate - Google
+ Legitimate, DBS Interactive
+ Pinterest is a legitimate website.
+ Legitimate, TBH Creative
+ Legitimate, ACC Limited
+ Legitimate, Nippon Paint
+ Legitimate, Tata Elxsi
+ Legitimate - Jindal Steel & Power
+ Legitimate - Zee Cinema
+ Legitimate, The Economic Times
+Legitimate, Texas.gov
+ Legitimate - Trulia
+ Legitimate, Trustpilot
+ Legitimate - Veterans Affairs
+ Legitimate - kumc
+ Legitimate, Genix Ltd.
+ Legitimate - SGM Life Words Europe
+ Legitimate - APWG
+ 'Legitimate', Infusion Funding, LLC
+ 'Phishing', the brand name is not clear.
+ Legitimate - Autism Family Services of New Jersey
+ Legitimate, PayPal
+ Legitimate, AWeber
+ 'Phishing', Solar Savings America
+ Legitimate, 'DueZeta Infissi'
+ The webpage screenshot is classified as 'Phishing'.
+The brand name is 'Raine & Horne Sans Souci'.
+ 'Phishing', the brand name is not applicable.
+49 WARNING:tornado.access:400 POST /v1beta/models/gemini-pro-vision:generateContent?%24alt=json%3Benum-encoding%3Dint (127.0.0.1) 36999.99ms
+The webpage screenshot is classified as 'Phishing'. The brand name is Johnson & Johnson. The screenshot is of a website that is selling a domain name that is similar to the brand name "Johnson & Johnson". The website is trying to trick people into thinking that it is the official website of Johnson & Johnson, and that they are selling the domain name for a cheap price. However, the website is not legitimate and is trying to steal people's money.
+ This is a phishing website. The real website of Axis Bank is www.axisbank.com.
+ Legitimate, Town of Boonville
+ 'Phishing'.
+ Legitimate, Capital One
+ 'Legitimate'
+ 'Phishing', brand name is 'Ricoma'.
+ Legitimate, Newegg.com
+ 'Phishing', brand name is 'Apple'.
+ Legitimate, Time Support Inc.
+ 'Legitimate', Fox Movies
+ 'Phishing', Kinman
+ Legitimate, Apple
+ Legitimate, Sparkasse
+ 'Phishing', the brand name is not available.
+ Legitimate, SFR
+ Legitimate, Time Sat
+ Legitimate, Microsoft
+68 WARNING:tornado.access:400 POST /v1beta/models/gemini-pro-vision:generateContent?%24alt=json%3Benum-encoding%3Dint (127.0.0.1) 32371.03ms
+Legitimate - Microsoft Office 365
+ Legitimate - 1st Security Bank
+ Legitimate - LinkedIn
+ Legitimate, 'Personalizzalo'
+ 'Phishing', 4455777.com
+ Legitimate, Focus Online
+ Legitimate - Hearth and Home
+ 'Legitimate', Freelancer.com
+ Legitimate - Microsoft
+Error occured
+ The webpage screenshot is classified as 'Legitimate', with the brand name 'ASAP'.
+ Legitimate - Warcraft Realms
+ Legitimate, CNN
+ Legitimate, webmail login page.
+ Legitimate, WOM
+ Legitimate - Lavapiés Streetball Champs
+ Legitimate, Bradesco Seguros
+ Legitimate, Cristo Radio.
+ Legitimate, TN Jobs Zone.
+ Legitimate, Apple
+The webpage screenshot is a phishing attempt by EDAS.
+ Legitimate, EasyChair
+ Legitimate, Intel.
+ Legitimate - Connectify Hotspot
+ Legitimate, WhatIs
+ Legitimate, Computerworld
+ Legitimate, PCmag
+ Legitimate - Cisco
+ Legitimate - Accenture
+ Legitimate - HDFC Bank
+ Legitimate - Tata Consultancy Services
+ Legitimate, Wipro
