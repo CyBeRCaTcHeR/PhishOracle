@@ -158,17 +158,8 @@ def add_gaussian_noise(img, mean=0, std=1):
     return Image.fromarray(np_img, 'RGBA')
 
 
-# Function to add JPEG compression
-def add_jpeg_compression(img, quality=30):
-    temp_path = 'temp.jpg'
-    img.save(temp_path, 'JPEG', quality=quality)
-    compressed_img = Image.open(temp_path).convert('RGBA')
-    os.remove(temp_path)
-    return compressed_img
-
-
-# Function to add Gaussian noise and JPEG compression
-def add_gaussian_noise_jpeg_compression(input_image_path, output_image_path, watermark_text=None):
+# Function to add Gaussian noise
+def add_gaussian_noise_to_logo(input_image_path, output_image_path, watermark_text=None):
     try:
         img = Image.open(input_image_path).convert("RGBA")
     except UnidentifiedImageError:
@@ -178,9 +169,6 @@ def add_gaussian_noise_jpeg_compression(input_image_path, output_image_path, wat
 
     # Add Gaussian Noise to the image
     img = add_gaussian_noise(img, mean=1, std=0.5)
-
-    # # Add JPEG Compression
-    # img = add_jpeg_compression(img, quality=30)
 
     # Save the perturbed image
     img = img.convert("RGB")
@@ -194,7 +182,7 @@ def handle_svg(input_svg_path, output_image_path, watermark_text):
         png_temp_path = input_svg_path.replace(".svg", ".png")
         cairosvg.svg2png(url=input_svg_path, write_to=png_temp_path)
 
-        function_to_call = random.choice([add_watermark_at_bottom_right, add_watermark_diagonally, add_rotation_brightness_gaussian_blur, add_rotation_grey_colored_mesh, add_gaussian_noise_jpeg_compression])
+        function_to_call = random.choice([add_watermark_at_bottom_right, add_watermark_diagonally, add_rotation_brightness_gaussian_blur, add_rotation_grey_colored_mesh, add_gaussian_noise_to_logo])
 
         # Add watermark to the converted PNG image
         function_to_call(png_temp_path, output_image_path, watermark_text)
@@ -210,7 +198,7 @@ def handle_svg(input_svg_path, output_image_path, watermark_text):
 
 
 # Main folder containing all subfolders
-main_folder = "E:\\PhishOracle_Experiment_Complete\\PhishOracle_Features\\feature_20\\"
+main_folder = "PATH_TO_DOWNLOADED_WEBPAGE_RESOURCES_FOLDER"
 
 # Iterate through each subfolder (each containing 'rogerebert.com' and similar subfolders)
 for folder_name in os.listdir(main_folder):
@@ -233,7 +221,7 @@ for folder_name in os.listdir(main_folder):
                     continue
                 output_path = os.path.join(root, f"{os.path.splitext(file)[0]}_modified.png")
                 if file.endswith('.png'):
-                    function_to_call = random.choice([add_watermark_at_bottom_right, add_watermark_diagonally, add_rotation_brightness_gaussian_blur, add_rotation_grey_colored_mesh, add_gaussian_noise_jpeg_compression])
+                    function_to_call = random.choice([add_watermark_at_bottom_right, add_watermark_diagonally, add_rotation_brightness_gaussian_blur, add_rotation_grey_colored_mesh, add_gaussian_noise_to_logo])
 
                     function_to_call(file_path, output_path, "Logo Copyright")
                 elif file.endswith('.svg'):
